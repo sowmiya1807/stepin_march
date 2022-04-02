@@ -1,11 +1,11 @@
 # TEST PLAN AND OUTPUT:
 ## HIGH LEVEL TEST PLAN:
 |TEST | ID	  |         DESCRIPTION	 |          EXPECTED INPUT    |      	EXPECTED OUTPUT	|      ACTUAL OUTPUT	  |        TYPE OF TEST|
-|-----|--------|----------------------|-----------------------------|------------------------|-----------------------|---------------------|
-|H_01 |	check if the code is working perfectly as expected, by considiringvthe test cases.|	Valid Input |	Correct Output 	Correct Output |	Done By Manual Testing. |
-|H_02	|check if the system handles the boundary conditions.|	 Invalid Input|	 Termination	 |Termination 	Done By Manual Testing. |
-|H_03 |	check for the flow control jumping.| 	Only For Valid Input |	 Jumping Correctly|	Jumping Correctly 	Done By Manual Testing.| 
-|H_04 |	check for the flow control jumping. |	 Only For Invalid Output|	 Terminating|	Terminating 	Done By Manual Testing.|
+|-----|--------|----------------------|-----------------------------|------------------------|--------------------|---------------------|
+|H_01 |	check if the code is working perfectly as expected, by considiringvthe test cases.|	Valid Input |	Correct Output 	|Correct Output |	Done By Manual Testing. |
+|H_02	|check if the system handles the boundary conditions.|	 Invalid Input|	 Termination	 |Termination \	Done By Manual Testing. |
+|H_03 |	check for the flow control jumping.| 	Only For Valid Input |	 Jumping Correctly|	Jumping Correctly |	Done By Manual Testing.| 
+|H_04 |	check for the flow control jumping. |	 Only For Invalid Output|	 Terminating|	Terminating |	Done By Manual Testing.|
 # LOW LEVEL TEST PLAN:
 |TEST ID|	DESCRIPTION|	EXPECTED INPUT|	EXPECTED OUTPUT|	ACTUAL OUTPUT|	TYPE OF TEST|
 |-------|--------------|-----------------|-----------------|----------------|--------------|
