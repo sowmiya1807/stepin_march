@@ -43,7 +43,7 @@ The switch-case statement is used to write a simple calculator program in C lang
 |------------|------------------------------------------------------------|------------|
 | HR_01 	   |  User should be able to view the operation list	          |   Technical|
 | HR_02 	   | User should be ablt to select the specified operation	    |   Technical|
-| HR_03	     | The system should be able to perform the given operation  	|   Technical|
+| HR_03	     | The system should be able to perform the given operation  	|   Technical| 
 | HR_04	     | The system must provide the correct output	                |   Technical|
 
  This folder contains documents detailing requirements and research with regard to project
