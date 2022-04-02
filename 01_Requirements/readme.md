@@ -1,6 +1,7 @@
 ## REQUIREMENTS
 # INTRODUCTION:
 Basic Calculator ia a project which allow users to calculate the four basic operations in mathematics such as addition, subtraction, multiplication and division but in this Project which I am implementing also includes three additional fundamental scientific operations such as calculating Factorial and Modulas operations. The inputs includes the commands which as we can give numbers based on the operation for example, in addition opoeration if we give 1 as a command and that particular operation works. However, this calculator is smart enough to operate multiplication / division before addition / subtraction / factorial / power / modulas, in another words it is implemented with the order of precedence logic.
+
 ![download](https://user-images.githubusercontent.com/101380469/161401388-53d9439c-a699-43e0-bdc2-a398dfaf65f0.jpg)
 
 # RESEARCH:
