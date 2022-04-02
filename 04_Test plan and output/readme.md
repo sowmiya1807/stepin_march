@@ -21,7 +21,7 @@
 | L_10|	Power	|Float Value |	 Termination| 	Termination | 	 Unit Test|
 | L_11|	Modulus| 	 Int Value	|Int Output |	 Int Output	 |Unit Test|
 | L_12|	Modulus |	Float Value 	| Termination| 	 Termination|	 Unit Test|
-| L_13|	|Factorial|	 Int Value	 |Int Output	|Int Output 	| Unit Test|
+| L_13|	Factorial|	 Int Value	 |Int Output	|Int Output 	| Unit Test|
 | L_14|	Factorial|	Float Value| 	 Termination |	Termination|  	 Unit Test|
 
 
