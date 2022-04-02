@@ -31,12 +31,15 @@ The switch-case statement is used to write a simple calculator program in C lang
   Addition, subtraction, multiplication and division operations can be performed by this system without manual usage of calculators.
 # WHEN:
   This project can be used when the user needs or feels to perform a basic mathematical operation.
-  ## HIGH LEVEL REQUIREMENTS:
-   ID              	DESCRIPTION	                                         CATEGORY
- HR_01 	     User should be able to view the operation list	            Technical
- HR_02 	     User should be ablt to select the specified operation	    Technical
- HR_03	     The system should be able to perform the given operation  	Technical
- HR_04	     The system must provide the correct output	                Technical
- This folder contains documents detailing requirements and research with regard to project
-#WHERE:
+ # WHERE:
   The calculator is an essential application in our day to day life. Schools, Organizations, Government organizations they all can use this application in their day to   day life activities for perfroming basic calculations.
+
+  ## HIGH LEVEL REQUIREMENTS:
+|   ID       |         	DESCRIPTION	                                      |   CATEGORY |
+----------------------------------------------------------------------------------------
+| HR_01 	   |  User should be able to view the operation list	          |   Technical|
+| HR_02 	   | User should be ablt to select the specified operation	    |   Technical|
+| HR_03	     | The system should be able to perform the given operation  	|   Technical|
+| HR_04	     | The system must provide the correct output	                |   Technical|
+
+ This folder contains documents detailing requirements and research with regard to project
